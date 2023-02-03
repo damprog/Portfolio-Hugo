@@ -45,7 +45,7 @@ canonifyurls = true
 # ------
 [author]
   name = "Damian Filipiak"
-  bio = "Super bio with markdown support **COOL**"
+  bio = "I’m a computer programmer who also loves photography! Feel free to ask me any questions."
   job = "Programmer"
   location = "Poland"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
