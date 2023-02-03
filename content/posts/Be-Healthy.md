@@ -3,7 +3,14 @@ title: "Be-Healthy"
 date: 2023-02-03T15:13:07+01:00
 draft: false
 thumbnailImagePosition: left
-thumbnailImage: img/smile_55.jpg
+thumbnailImage: img/smile_5.jpg
+categories:
+- Projects
+tags:
+- Angular
+- Django
+- Web App
+- My Project
 ---
 
 
@@ -24,9 +31,19 @@ Aplikacja webowa dostarczająca przepisy kulinarne.
 4. Panel administratora
 5. Możliwość zakupu pakietu
 
-# Prezentacja
+# Prezentacja aplikacji
 
-{{< youtube src="https://www.youtube.com/watch?v=vymiHaqpI3A" >}}
+## Funkcje ogólne
+{{< youtube IXnO3a07sfg>}}
+
+## Po zalogownaniu
+
+
+## Zalogowany administrator
+{{< youtube MolI7QElGS0>}}
+
+## Widok mobilny
+{{< youtube IIuce_BHRs0>}}
 
 # Informacje dodatkowe
 Aplikacja jest ciągle rozwijana w wolnym czasie. Planuję dodać komentarze do każdego z przepisów i możliwość oceniania.

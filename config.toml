@@ -53,7 +53,8 @@ canonifyurls = true
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  picture = "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59094701-stock-illustration-businessman-profile-icon.jpg"
+  #picture = "https://st2.depositphotos.com/1006318/5909/v/950/depositphotos_59094701-stock-illustration-businessman-profile-icon.jpg"
+  picture = "img/avatar.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -68,24 +69,37 @@ canonifyurls = true
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
-[[menu.main]]
+  [[menu.main]]
   weight = 2
+  identifier = "projects"
+  name = "Projects"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-cubes\" aria-hidden=\"true\"></i>"
+  url = "/projects"
+  [[menu.main]]
+  weight = 3
+  identifier = "photography"
+  name = "Photography"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
+  url = "/gallery"
+[[menu.main]]
+  weight = 4
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
-  weight = 3
+  weight = 5
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 4
+  weight = 6
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/#about"
+
 
 [[menu.links]]
   weight = 1
