@@ -86,7 +86,7 @@ canonifyurls = true
   weight = 4
   identifier = "guides"
   name = "Guides"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   url = "/categories/guides/"
 [[menu.main]]
   weight = 5
