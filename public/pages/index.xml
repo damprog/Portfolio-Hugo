@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Damian Filipiak</title>
+    <link>https://guileless-tapioca-d0506f.netlify.app/pages/</link>
+    <description>Recent content in Pages on Damian Filipiak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Feb 2023 16:34:50 +0100</lastBuildDate><atom:link href="https://guileless-tapioca-d0506f.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photography</title>
+      <link>https://guileless-tapioca-d0506f.netlify.app/pages/photography/</link>
+      <pubDate>Sat, 04 Feb 2023 16:34:50 +0100</pubDate>
+      
+      <guid>https://guileless-tapioca-d0506f.netlify.app/pages/photography/</guid>
+      <description>&lt;p&gt;My favourite photos!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -45,7 +45,8 @@ canonifyurls = true
 # ------
 [author]
   name = "Damian Filipiak"
-  bio = "I’m a computer programmer who also loves photography! Feel free to ask me any questions."
+  bio = "I’m a computer programmer who also loves photography!"
+  email = " \n\n Feel free to ask me any questions.  \nEmail: damianfilipiak1999@gmail.com"
   job = "Programmer"
   location = "Poland"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -68,36 +69,42 @@ canonifyurls = true
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/"
+  url = "/categories/home/"
   [[menu.main]]
   weight = 2
   identifier = "projects"
   name = "Projects"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-cubes\" aria-hidden=\"true\"></i>"
-  url = "/projects"
+  url = "/categories/projects/"
   [[menu.main]]
   weight = 3
   identifier = "photography"
   name = "Photography"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
-  url = "/gallery"
-[[menu.main]]
+  url = "/categories/photography/"
+  [[menu.main]]
   weight = 4
+  identifier = "guides"
+  name = "Guides"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
+  url = "/categories/guides/"
+[[menu.main]]
+  weight = 5
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
-  weight = 5
+  weight = 6
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 6
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  weight = 7
+  identifier = "contact"
+  name = "Contact"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-envelope\" aria-hidden=\"true\"></i>"
   url = "/#about"
 
 
@@ -114,6 +121,12 @@ identifier = "linkedin"
 name = "Linkedin"
 pre = "<i class=\"sidebar-button-icon fab fa-lg fa-linkedin\" aria-hidden=\"true\"></i>"
 url = "https://www.linkedin.com/in/damian-filipiak-528390264/"
+[[menu.links]]
+weight = 3
+identifier = "youtube"
+name = "YouTube"
+pre = "<i class=\"sidebar-button-icon fab fa-lg fa-youtube\" aria-hidden=\"true\"></i>"
+url = "https://www.youtube.com/channel/UCnzqfqEBWzvhw5Q6b0W2xgg"
 
 # -------------
 # Customization

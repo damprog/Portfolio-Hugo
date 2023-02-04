@@ -48,6 +48,10 @@
             padding: 0 30px;
             margin:  0 0 30px 0;
         }
+        #about-card-email {
+            padding: 0 30px;
+            margin:  0 0 30px 0;
+        }
         #about-card-job,
         #about-card-location {
             display:        inline-block;
@@ -55,6 +59,7 @@
         }
         #about-card-job,
         #about-card-location,
+        #about-card-email
         #about-card-bio {
             font-size:   $font-size-base;
             line-height: $line-height-base;

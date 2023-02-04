@@ -1,6 +1,7 @@
 ---
-title: "Image gallery showcase"
-date: 2013-02-18
+title: "Favorite"
+date: 2023-02-04T16:34:50+01:00
+draft: false
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/image-gallery-showcase/city-140.jpg
 gallery:
@@ -11,12 +12,13 @@ gallery:
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg "Ferrari"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg "Lamborghini"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg
+
 categories:
-- tranquilpeak
-- features
+- Photography
 tags:
-- image gallery
+- favorite
+- photos
 ---
 
-And here is the image gallery!
+My favourite photos!
 <!--more-->
