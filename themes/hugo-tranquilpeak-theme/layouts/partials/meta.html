@@ -6,10 +6,6 @@
 <meta name="keywords" content="{{ with .Keywords }}{{ delimit . ", " }}{{ end }}{{ if .Site.Params.keywords }}, {{ delimit .Site.Params.keywords ", " }}{{ end }}">
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
-<link rel="shortcut icon" type="image/png" href="/img/icon-192x192.png">
-<link rel="shortcut icon" sizes="192x192" href="/img/icon-192x192.png">
-<link rel="apple-touch-icon" href="/img/icon-192x192.png">
-
 <!-- Meta Social -->
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
