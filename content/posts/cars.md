@@ -19,8 +19,8 @@ tags:
 - photos
 ---
 
-Photos of sport cars ...
+Zdjęcia samochodów sportowych ...
 
-<!--more-->
+<!-- more -->
 ---
 

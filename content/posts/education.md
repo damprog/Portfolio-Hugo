@@ -10,7 +10,26 @@ tags:
 - Education
 ---
 
-
 Zdobyte wykształcenie, ukończone szkoły oraz kursy.
 
 <!--more-->
+
+### Szkoła wyższa
+(09.2019 - 02.2023)  
+Wyższa Szkoła Ekonomii i Innowacji w Lublinie  
+(aktualnie Akademia WSEI)  
+
+Kierunek – Informatyka  
+Specjalizacja - Programowanie i technologie webowe  
+Tytuł - inżynier
+
+### Szkoła średnia
+(09.2015-06.2019)  
+Technikum Nr 4 w Zespole Szkół Technicznych w Puławach  
+
+Uzyskanie świadectwa potwierdzającego kwalifikacje w zawodzie  
+Tytuł - technik informatyk
+
+### Kursy
+- Tworzenie aplikacji bazodanowej. - C++ (strefakursów.pl)
+- Cisco Networking and Switching - (w trakcie szkoły średniej - weekendy)

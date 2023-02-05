@@ -13,3 +13,19 @@ tags:
 Inne umiejętnosci.
 
 <!--more-->
+  
+###
+
+- samodzielność
+- komunikatywność
+- umiejętność rozwiązywania problemów
+- organizacja pracy  
+
+#### Praktyczne
+
+- zdolność do rysowania
+- gotowanie
+- jazda pojazdami
+
+
+
