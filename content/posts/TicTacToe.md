@@ -7,14 +7,14 @@ thumbnailImage: img/smile_4.jpg
 categories:
 - Projects
 tags:
-- C#
+- CSharp
 ---
 
 Gra w kółko i krzyżyk.
 
 <!--more-->
 
-##  
+
 
 ## Prezentacja w działaniu
 

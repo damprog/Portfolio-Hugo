@@ -7,7 +7,7 @@ thumbnailImage: img/smile_4.jpg
 categories:
 - Projects
 tags:
-- C#
+- CSharp
 - SQL
 ---
 
