@@ -1,6 +1,6 @@
 ---
 title: "Django"
-date: 2023-02-04T19:00:31+01:00
+date: 2023-02-10T19:00:31+01:00
 draft: false
 thumbnailImagePosition: left
 thumbnailImage: https://www.debugpointer.com/static/images/thumbnails/django.png
