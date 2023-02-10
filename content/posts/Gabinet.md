@@ -1,6 +1,6 @@
 ---
 title: "Gabinet"
-date: 2023-02-03T21:15:54+01:00
+date: 2023-02-07T21:15:54+01:00
 draft: false
 thumbnailImagePosition: left
 thumbnailImage: img/smile_5.jpg
