@@ -22,7 +22,7 @@ Aby rozpocząć turniej należy go utworzyć lub wybrać z listy.
 
 ![Początkowe okno programu](https://i.imgur.com/Joc9CLU.png)  
 
-**Tworzenie turnieju** wymaga podania nazwy, kwoty pozwalającej na wzięcie udziału w turnieju, dodaniu drużyn biorących udział oraz stworzenia nagród adekwatnych do zajętego miejsca.  
+Tworzenie turnieju wymaga podania nazwy, kwoty pozwalającej na wzięcie udziału w turnieju, dodaniu drużyn biorących udział oraz stworzenia nagród adekwatnych do zajętego miejsca.  
 
 ![Tworzenie turnieju](https://i.imgur.com/ud1hQab.png)  
 
