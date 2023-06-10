@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2023-02-10T19:00:31+01:00
-draft: false
+draft: true
 thumbnailImagePosition: left
 thumbnailImage: https://www.debugpointer.com/static/images/thumbnails/django.png
 categories:
@@ -12,5 +12,6 @@ tags:
 
 Framework do tworzenia backendu - REST API
 
+Poradnik / zbiór informacji jeszcze nie gotowy.
 <!--more-->
 

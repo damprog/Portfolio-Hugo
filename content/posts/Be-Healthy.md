@@ -37,7 +37,7 @@ Aplikacja webowa dostarczająca przepisy kulinarne.
 {{< youtube IXnO3a07sfg>}}
 
 ## Po zalogownaniu
-
+Wymaga obróbki wideo.
 
 ## Zalogowany administrator
 {{< youtube MolI7QElGS0>}}
