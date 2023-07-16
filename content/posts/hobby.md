@@ -5,7 +5,7 @@ draft: false
 thumbnailImagePosition: left
 thumbnailImage: https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036_1280.jpg
 categories:
-- Home
+- O mnie
 tags:
 - Hobby
 ---

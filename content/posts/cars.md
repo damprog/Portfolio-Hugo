@@ -1,5 +1,5 @@
 ---
-title: "Cars"
+title: "Samochody"
 date: 2023-02-04T15:13:07+01:00
 draft: false
 thumbnailImagePosition: left
@@ -13,10 +13,10 @@ gallery:
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg "Lamborghini"
 - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg
 categories:
-- Photography
+- Fotografia
 tags:
-- cars
-- photos
+- samochody
+- zdjęcia
 ---
 
 Zdjęcia samochodów sportowych ...

@@ -66,25 +66,25 @@ canonifyurls = true
 # ------------
 [[menu.main]]
   weight = 1
-  identifier = "home"
+  identifier = "o mnie"
   name = "O mnie"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/categories/home/"
   [[menu.main]]
   weight = 2
-  identifier = "projects"
+  identifier = "projekty"
   name = "Projekty"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-cubes\" aria-hidden=\"true\"></i>"
   url = "/categories/projects/"
   [[menu.main]]
   weight = 3
-  identifier = "photography"
+  identifier = "fotografia"
   name = "Fotografia"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
   url = "/categories/photography/"
   # [[menu.main]]
   # weight = 4
-  # identifier = "guides"
+  # identifier = "poradniki"
   # name = "Poradniki"
   # pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   # url = "/categories/guides/"
@@ -102,7 +102,7 @@ canonifyurls = true
   url = "/tags"
 [[menu.main]]
   weight = 7
-  identifier = "contact"
+  identifier = "kontakt"
   name = "Kontakt"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-envelope\" aria-hidden=\"true\"></i>"
   url = "/#about"
@@ -135,7 +135,7 @@ url = "https://www.youtube.com/channel/UCnzqfqEBWzvhw5Q6b0W2xgg"
   # -----------
   # Description
   # -----------
-  description = "Welcome to my portfolio site!"
+  description = "Poznaj mój świat!"
 
   # ------------------
   # Syntax highlighter

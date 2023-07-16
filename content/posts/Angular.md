@@ -5,7 +5,7 @@ draft: true
 thumbnailImagePosition: left
 thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png
 categories:
-- Guides
+- Poradniki
 tags:
 - Angular
 ---

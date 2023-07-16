@@ -5,7 +5,7 @@ draft: false
 thumbnailImagePosition: left
 thumbnailImage: img/smile_4.jpg
 categories:
-- Projects
+- Projekty
 tags:
 - CSharp
 - SQL

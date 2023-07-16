@@ -1,13 +1,13 @@
 ---
-title: "Skills"
+title: "Inne umiejętności"
 date: 2023-02-04T15:13:07+01:00
 draft: false
 thumbnailImagePosition: left
 thumbnailImage: https://cdn.pixabay.com/photo/2017/10/22/09/02/training-2877134_1280.jpg
 categories:
-- Home
+- O mnie
 tags:
-- Skills
+- Umiejętności
 ---
 
 Inne umiejętnosci.
@@ -16,6 +16,8 @@ Inne umiejętnosci.
   
 ###
 
+- Canva
+- Podstawowa obróbka wideo
 - samodzielność
 - komunikatywność
 - umiejętność rozwiązywania problemów

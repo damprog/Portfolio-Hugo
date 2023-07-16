@@ -5,7 +5,7 @@ draft: false
 thumbnailImagePosition: left
 thumbnailImage: img/smile_5.jpg
 categories:
-- Projects
+- Projekty
 tags:
 - Angular
 - Django

@@ -5,10 +5,10 @@ draft: false
 thumbnailImagePosition: left
 thumbnailImage: img/smile_5.jpg
 categories:
-- Projects
+- Projekty
 tags:
 - C++
-- My Project
+- Mój Projekt
 ---
 
 Program CRM do zarządzania terminami, ustalania wizyt, przechowywania informacji o klientach i pracownikach, a także dostępnych usługach.

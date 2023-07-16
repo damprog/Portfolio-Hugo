@@ -5,7 +5,7 @@ draft: true
 thumbnailImagePosition: left
 thumbnailImage: https://www.debugpointer.com/static/images/thumbnails/django.png
 categories:
-- Guides
+- Poradniki
 tags:
 - Django
 ---

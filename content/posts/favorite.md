@@ -1,5 +1,5 @@
 ---
-title: "Favorite"
+title: "Ulubione"
 date: 2023-02-04T16:34:50+01:00
 draft: false
 thumbnailImagePosition: left
@@ -27,10 +27,10 @@ gallery:
 - https://i.imgur.com/nJGUAN2.jpg
 
 categories:
-- Photography
+- Fotografia
 tags:
-- favorite
-- photos
+- ulubione
+- zdjęcia
 ---
 
 Ulubione zdjęcia wykonane smartfonem

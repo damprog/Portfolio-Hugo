@@ -5,7 +5,7 @@ draft: true
 thumbnailImagePosition: left
 thumbnailImage: https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png
 categories:
-- Guides
+- Poradniki
 tags:
 - MySql
 ---
