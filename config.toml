@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://damian-filipiak.netlify.app/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "pl"
+defaultContentLanguage = "pl"
 title = "Damian Filipiak"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
@@ -45,10 +45,10 @@ canonifyurls = true
 # ------
 [author]
   name = "Damian Filipiak"
-  bio = "I’m a computer programmer who also loves to travel!"
-  email = " \n\n Feel free to ask me any questions.  \nEmail: damianfilipiak1999@gmail.com"
-  job = "Programmer"
-  location = "Poland"
+  bio = "Me miano programista, cechuje mnie ambicja! :D"
+  email = " \n\n Zapraszam do kontaktu.  \nEmail: damianfilipiak1999@gmail.com"
+  job = "Programista .Net"
+  location = "Polska"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
@@ -67,43 +67,43 @@ canonifyurls = true
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "O mnie"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/categories/home/"
   [[menu.main]]
   weight = 2
   identifier = "projects"
-  name = "Projects"
+  name = "Projekty"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-cubes\" aria-hidden=\"true\"></i>"
   url = "/categories/projects/"
   [[menu.main]]
   weight = 3
   identifier = "photography"
-  name = "Photography"
+  name = "Fotografia"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
   url = "/categories/photography/"
   # [[menu.main]]
   # weight = 4
   # identifier = "guides"
-  # name = "Guides"
+  # name = "Poradniki"
   # pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
   # url = "/categories/guides/"
 [[menu.main]]
   weight = 5
   identifier = "categories"
-  name = "Categories"
+  name = "Kategorie"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 6
   identifier = "tags"
-  name = "Tags"
+  name = "Tagi"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
   weight = 7
   identifier = "contact"
-  name = "Contact"
+  name = "Kontakt"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-envelope\" aria-hidden=\"true\"></i>"
   url = "/#about"
 
