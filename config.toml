@@ -69,25 +69,25 @@ canonifyurls = true
   identifier = "o mnie"
   name = "O mnie"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/categories/home/"
+  url = "/categories/o mnie/"
   [[menu.main]]
   weight = 2
   identifier = "projekty"
   name = "Projekty"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-cubes\" aria-hidden=\"true\"></i>"
-  url = "/categories/projects/"
+  url = "/categories/projekty/"
   [[menu.main]]
   weight = 3
   identifier = "fotografia"
   name = "Fotografia"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera-retro\" aria-hidden=\"true\"></i>"
-  url = "/categories/photography/"
+  url = "/categories/fotografia/"
   # [[menu.main]]
   # weight = 4
   # identifier = "poradniki"
   # name = "Poradniki"
   # pre = "<i class=\"sidebar-button-icon fas fa-lg fa-book\" aria-hidden=\"true\"></i>"
-  # url = "/categories/guides/"
+  # url = "/categories/poradniki/"
 [[menu.main]]
   weight = 5
   identifier = "categories"
