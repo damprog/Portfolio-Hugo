@@ -35,4 +35,4 @@ Zadania:
 
 Projekty wykonane we własnym zakresie w wolnym czasie.
 
-Może je obejrzeć na tej stronie wybierając ["Projects"](/categories/projects/) z menu głównego.
+Może je obejrzeć na tej stronie wybierając ["Projekty"](/categories/projekty/) z menu głównego.
